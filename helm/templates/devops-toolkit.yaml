@@ -16,7 +16,7 @@ spec:
         image:
           tag: 2.9.17
         ingress:
-          host: devopstoolkitseries.com
+          host: devops-toolkit.192.168.103.240.nip.io
       version: v3
   destination:
     namespace: production
